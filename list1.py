@@ -1,0 +1,9 @@
+list1=[1,2,3,4,5]
+list1[3]=[10,20]
+print(list1)
+list2=[1,2,3,4,5]
+list3=list1+list2
+print(list3)
+list5=[1,2,3,4,5]
+list4=list5+list2
+print(list4)

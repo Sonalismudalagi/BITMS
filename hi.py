@@ -1,0 +1,1 @@
+print("Hi","python",sep='@',end='********')
